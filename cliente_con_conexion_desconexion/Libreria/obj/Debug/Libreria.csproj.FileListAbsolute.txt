@@ -1,0 +1,20 @@
+C:\Users\aidap\OneDrive\Escritorio\Universitat\3r any\1r quatrimestre\SO\ProjecteC#\Entrega1\VERSIO1\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.dll
+C:\Users\aidap\OneDrive\Escritorio\Universitat\3r any\1r quatrimestre\SO\ProjecteC#\Entrega1\VERSIO1\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.pdb
+C:\Users\aidap\OneDrive\Escritorio\Universitat\3r any\1r quatrimestre\SO\ProjecteC#\Entrega1\VERSIO1\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.dll
+C:\Users\aidap\OneDrive\Escritorio\Universitat\3r any\1r quatrimestre\SO\ProjecteC#\Entrega1\VERSIO1\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.pdb
+C:\Users\aidap\OneDrive\Escritorio\Universitat\3r any\1r quatrimestre\SO\ProjecteC#\Entrega1\VERSIO1\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\share\V1Final\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.dll
+C:\share\V1Final\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.pdb
+C:\share\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\share\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.dll
+C:\share\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.pdb
+C:\Users\mirei\Desktop\UNIVERSITAT\3A\Sistemes Operatius\PROJECETE\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.dll
+C:\Users\mirei\Desktop\UNIVERSITAT\3A\Sistemes Operatius\PROJECETE\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.pdb
+C:\Users\mirei\Desktop\UNIVERSITAT\3A\Sistemes Operatius\PROJECETE\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\mirei\Desktop\UNIVERSITAT\3A\Sistemes Operatius\PROJECETE\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.dll
+C:\Users\mirei\Desktop\UNIVERSITAT\3A\Sistemes Operatius\PROJECETE\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.pdb
+C:\share\21Nov\NewClient\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.dll
+C:\share\21Nov\NewClient\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\bin\Debug\Libreria.pdb
+C:\share\21Nov\NewClient\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\share\21Nov\NewClient\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.dll
+C:\share\21Nov\NewClient\V1Final\V1Final\cliente_con_conexion_desconexion\Libreria\obj\Debug\Libreria.pdb

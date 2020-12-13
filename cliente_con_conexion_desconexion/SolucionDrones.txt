@@ -1,0 +1,34 @@
+Planetas:
+
+1-Tierra (SÍ)
+2-Marte (SÍ)
+3-Venus (SÍ)
+4-Urano (NO)
+5-Júpiter (SÍ)
+6-Mercurio (NO)
+7-Neptuno (SÍ)
+SOL: 5
+-----------
+Planetoides:
+
+1-Plutón (SÍ)
+SOL:1
+-------------
+Satélites:
+
+1-Tierra(SÍ)
+2-Satélite Artificial (SÍ)
+SOL: 2
+-------------
+Estrellas:
+
+1-El sol (SÍ)
+SOL:1
+-------------
+Naves:
+1-Ovni (SÍ)
+2-Transbordador espacial (SÍ)
+SOL:2
+-------------
+Prueba: 
+NºPlanetas*8 + NºPlanetas enanos*3 + Nº Satélites*7 + Nº Estrellas*2+ Nº Naves*5= 5*8 + 1*3 + 2*7 + 1*2 + 2*5 =40 +3+14+2+10= 69
